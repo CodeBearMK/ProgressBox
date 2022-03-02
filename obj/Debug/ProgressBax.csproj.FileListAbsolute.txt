@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\ProgressBax\bin\Debug\ProgressBax.exe.config
+D:\cat32tw\Desktop\ProgressBax\bin\Debug\ProgressBax.exe
+D:\cat32tw\Desktop\ProgressBax\bin\Debug\ProgressBax.pdb
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.Form1.resources
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.Properties.Resources.resources
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.exe
+D:\cat32tw\Desktop\ProgressBax\obj\Debug\ProgressBax.pdb
